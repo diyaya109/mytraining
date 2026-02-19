@@ -1,0 +1,8 @@
+
+<suite name="Screenshot Suite">
+  <test name="Screenshot Tests">
+    <classes>
+      <class name="demo.test.ScreenshotDemoTest"/>
+    </classes>
+  </test>
+</suite>
